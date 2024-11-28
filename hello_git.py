@@ -1,2 +1,1 @@
-print('Hello, git')
-print('index')
+print('Create new branch')

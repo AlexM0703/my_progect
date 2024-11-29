@@ -1,9 +1,17 @@
-print('Hello, Git!')
-print('Indexing is important!')
-print('TTT')
+import b
+print('Hello, git')
+print("Index - it's important")
 
-for num in range(20):
-        print(num,end=' ')
+ind = 0
+sum = 0
 
+while ind <= 9:
+        sum += ind
+        print(sum, end=' ')
+        ind += 1
 
-while 
+print()
+
+a1 = int(input())
+b1 = int(input())
+print(b.sum_num(a1,b1))

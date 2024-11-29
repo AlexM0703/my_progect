@@ -10,3 +10,4 @@ print(b.sum_num(a1,b1))
 for num in range(10):
         print(num,end=' ')
 print('Hello github')
+print('work')
